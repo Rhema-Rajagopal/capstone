@@ -1,4 +1,7 @@
-**E-Commerce Website**
+**E-Commerce Website** 
+Live DEMO- 
+https://darling-hotteok-9c3c8e.netlify.app/
+
 This is a full-stack e-commerce website built using the MERN stack (MongoDB, Express.js, React.js, Node.js). The project includes both the frontend and backend components to create a fully functional online shopping platform.
 
 **Features**
